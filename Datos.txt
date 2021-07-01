@@ -1,0 +1,2 @@
+"Nombre del remitente a busca"
+"regex a comparar"

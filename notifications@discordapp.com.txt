@@ -1,0 +1,1248 @@
+20180702081954.1.846BB058AAB071FC@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Mon, 02 Jul 2018 08:19:54 +0000
+
+Received: by 2002:a17:90a:8b89:0:0:0:0 with SMTP id z9-v6csp1878518pjn; Mon, 2
+ Jul 2018 01:19:55 -0700 (PDT)
+Received: from mail6.static.discordapp.com (mail6.static.discordapp.com.
+ [104.130.123.194]) by mx.google.com with UTF8SMTPS id
+ p123-v6si2516241qkc.311.2018.07.02.01.19.55 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Mon, 02 Jul
+ 2018 01:19:55 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Mon, 02 Jul 2018 08:19:54 +0000
+
+20180710002122.1.A70586E87C81E44F@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Tue, 10 Jul 2018 00:21:22 +0000
+
+Received: by 2002:a17:90a:8b89:0:0:0:0 with SMTP id z9-v6csp3126254pjn; Mon, 9
+ Jul 2018 17:21:23 -0700 (PDT)
+Received: from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ q5-v6si10703557iti.92.2018.07.09.17.21.23 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Mon, 09 Jul
+ 2018 17:21:23 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Tue, 10 Jul 2018 00:21:22 +0000
+
+20180711075154.1.8D77F3FCFAC35AE5@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Wed, 11 Jul 2018 07:51:54 +0000
+
+Received: by 2002:a17:90a:8b89:0:0:0:0 with SMTP id z9-v6csp4649571pjn; Wed,
+ 11 Jul 2018 00:51:55 -0700 (PDT)
+Received: from mail6.static.discordapp.com (mail6.static.discordapp.com.
+ [104.130.123.194]) by mx.google.com with UTF8SMTPS id
+ n10-v6si3665039qtp.100.2018.07.11.00.51.54 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 11 Jul
+ 2018 00:51:54 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Wed, 11 Jul 2018 07:51:54 +0000
+
+20180712152745.1.296F0F29F2A97AF9@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Thu, 12 Jul 2018 15:27:45 +0000
+
+Received: by 2002:a17:90a:8b89:0:0:0:0 with SMTP id z9-v6csp1582787pjn; Thu,
+ 12 Jul 2018 08:27:46 -0700 (PDT)
+Received: from mail4.static.discordapp.com (mail4.static.discordapp.com.
+ [104.130.123.193]) by mx.google.com with UTF8SMTPS id
+ m13-v6si3143617qkm.336.2018.07.12.08.27.45 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 12 Jul
+ 2018 08:27:46 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Thu, 12 Jul 2018 15:27:45 +0000
+
+20180714155748.1.351A3D1786A93703@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sat, 14 Jul 2018 15:57:48 +0000
+
+Received: by 2002:a17:90a:4ce6:0:0:0:0 with SMTP id k93-v6csp551717pjh; Sat,
+ 14 Jul 2018 08:57:49 -0700 (PDT)
+Received: from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ t10-v6si3044127jaa.26.2018.07.14.08.57.49 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sat, 14 Jul
+ 2018 08:57:49 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Sat, 14 Jul 2018 15:57:48 +0000
+
+20180715234213.1.2B4E52F120C9A9FC@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sun, 15 Jul 2018 23:42:13 +0000
+
+Received: by 2002:a17:90a:4ce6:0:0:0:0 with SMTP id k93-v6csp1687905pjh; Sun,
+ 15 Jul 2018 16:42:14 -0700 (PDT)
+Received: from mail3.static.discordapp.com (mail3.static.discordapp.com.
+ [104.130.123.192]) by mx.google.com with UTF8SMTPS id
+ i93-v6si1677262qtb.266.2018.07.15.16.42.13 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sun, 15 Jul
+ 2018 16:42:14 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Sun, 15 Jul 2018 23:42:13 +0000
+
+20180716235714.1.373E98044B86F3CA@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Mon, 16 Jul 2018 23:57:14 +0000
+
+Received: by 2002:a17:90a:4ce6:0:0:0:0 with SMTP id k93-v6csp2841084pjh; Mon,
+ 16 Jul 2018 16:57:16 -0700 (PDT)
+Received: from mail4.static.discordapp.com (mail4.static.discordapp.com.
+ [104.130.123.193]) by mx.google.com with UTF8SMTPS id
+ t188-v6si15717834qkf.249.2018.07.16.16.57.15 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Mon, 16 Jul
+ 2018 16:57:16 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Mon, 16 Jul 2018 23:57:14 +0000
+
+20180718001215.1.207F8AB49589AEC3@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Wed, 18 Jul 2018 00:12:15 +0000
+
+Received: by 2002:a17:90a:4ce6:0:0:0:0 with SMTP id k93-v6csp153921pjh; Tue,
+ 17 Jul 2018 17:12:17 -0700 (PDT)
+Received: from mail4.static.discordapp.com (mail4.static.discordapp.com.
+ [104.130.123.193]) by mx.google.com with UTF8SMTPS id
+ i1-v6si2440333qvm.272.2018.07.17.17.12.16 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Tue, 17 Jul
+ 2018 17:12:17 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Wed, 18 Jul 2018 00:12:15 +0000
+
+20180802013544.1.4603816E2E3267A4@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Thu, 02 Aug 2018 01:35:44 +0000
+
+Received: by 2002:a17:90a:4ce6:0:0:0:0 with SMTP id k93-v6csp1480898pjh; Wed,
+ 1 Aug 2018 18:35:46 -0700 (PDT)
+Received: from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ c186-v6si285999itc.75.2018.08.01.18.35.45 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 01 Aug
+ 2018 18:35:45 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Thu, 02 Aug 2018 01:35:44 +0000
+
+20180803015046.1.A48ADAD0BBBF53E6@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Fri, 03 Aug 2018 01:50:46 +0000
+
+Received: by 2002:a17:90a:4ce6:0:0:0:0 with SMTP id k93-v6csp2725594pjh; Thu,
+ 2 Aug 2018 18:50:47 -0700 (PDT)
+Received: from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ k7-v6si2246344ith.120.2018.08.02.18.50.47 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 02 Aug
+ 2018 18:50:47 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Fri, 03 Aug 2018 01:50:46 +0000
+
+20180924202639.1.676C7AA40F33D3D1@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Mon, 24 Sep 2018 20:26:39 +0000
+
+Received: by 2002:a17:90a:37a5:0:0:0:0 with SMTP id v34-v6csp2150932pjb; Mon,
+ 24 Sep 2018 13:26:40 -0700 (PDT)
+Received: from mail6.static.discordapp.com (mail6.static.discordapp.com.
+ [104.130.123.194]) by mx.google.com with UTF8SMTPS id
+ u44-v6si120851oth.387.2018.09.24.13.26.40 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Mon, 24 Sep
+ 2018 13:26:40 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Mon, 24 Sep 2018 20:26:39 +0000
+
+20180926205642.1.32CE3A29DA85234A@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Wed, 26 Sep 2018 20:56:42 +0000
+
+Received: by 2002:a17:90a:37a5:0:0:0:0 with SMTP id v34-v6csp1190668pjb; Wed,
+ 26 Sep 2018 13:56:43 -0700 (PDT)
+Received: from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ e14-v6si26923jal.104.2018.09.26.13.56.42 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 26 Sep
+ 2018 13:56:43 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Wed, 26 Sep 2018 20:56:42 +0000
+
+20181007000726.1.EE265D343A30E606@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sun, 07 Oct 2018 00:07:26 +0000
+
+Received: by 2002:a17:90a:680f:0:0:0:0 with SMTP id p15-v6csp2091503pjj; Sat,
+ 6 Oct 2018 17:07:27 -0700 (PDT)
+Received: from mail6.static.discordapp.com (mail6.static.discordapp.com.
+ [104.130.123.194]) by mx.google.com with UTF8SMTPS id
+ v7-v6si5923339oig.199.2018.10.06.17.07.26 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sat, 06 Oct
+ 2018 17:07:27 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Sun, 07 Oct 2018 00:07:26 +0000
+
+20181011041438.1.08EFA070037AE109@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Thu, 11 Oct 2018 04:14:38 +0000
+
+Received: by 2002:a17:90a:680f:0:0:0:0 with SMTP id p15-v6csp1685740pjj; Wed,
+ 10 Oct 2018 21:14:39 -0700 (PDT)
+Received: from mail1.static.discordapp.com (mail1.static.discordapp.com.
+ [166.78.68.137]) by mx.google.com with UTF8SMTPS id
+ m11-v6si16220084ioq.144.2018.10.10.21.14.39 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 10 Oct
+ 2018 21:14:39 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Thu, 11 Oct 2018 04:14:38 +0000
+
+20181012042940.1.78B8D899894BE906@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Fri, 12 Oct 2018 04:29:40 +0000
+
+Received: by 2002:a17:90a:680f:0:0:0:0 with SMTP id p15-v6csp280800pjj; Thu,
+ 11 Oct 2018 21:29:41 -0700 (PDT)
+Received: from mail1.static.discordapp.com (mail1.static.discordapp.com.
+ [166.78.68.137]) by mx.google.com with UTF8SMTPS id
+ n18-v6si11162jal.28.2018.10.11.21.29.41 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 11 Oct
+ 2018 21:29:41 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Fri, 12 Oct 2018 04:29:40 +0000
+
+20181013044443.1.FD60586DB8BC4D9E@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sat, 13 Oct 2018 04:44:43 +0000
+
+Received: by 2002:a17:90a:680f:0:0:0:0 with SMTP id p15-v6csp1516989pjj; Fri,
+ 12 Oct 2018 21:44:44 -0700 (PDT)
+Received: from mail6.static.discordapp.com (mail6.static.discordapp.com.
+ [104.130.123.194]) by mx.google.com with UTF8SMTPS id
+ x42-v6si1692221qvf.28.2018.10.12.21.44.43 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Fri, 12 Oct
+ 2018 21:44:44 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Sat, 13 Oct 2018 04:44:43 +0000
+
+20181014045944.1.140C5B2FE5CCF3B5@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sun, 14 Oct 2018 04:59:44 +0000
+
+Received: by 2002:a17:90a:680f:0:0:0:0 with SMTP id p15-v6csp2519866pjj; Sat,
+ 13 Oct 2018 21:59:45 -0700 (PDT)
+Received: from mail6.static.discordapp.com (mail6.static.discordapp.com.
+ [104.130.123.194]) by mx.google.com with UTF8SMTPS id
+ w128-v6si5362536qkc.27.2018.10.13.21.59.44 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sat, 13 Oct
+ 2018 21:59:45 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Sun, 14 Oct 2018 04:59:44 +0000
+
+20181015051445.1.1EA156B92B49B49C@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Mon, 15 Oct 2018 05:14:45 +0000
+
+Received: by 2002:a17:90a:680f:0:0:0:0 with SMTP id p15-v6csp3512132pjj; Sun,
+ 14 Oct 2018 22:14:46 -0700 (PDT)
+Received: from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ t77-v6si6512831ita.60.2018.10.14.22.14.45 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sun, 14 Oct
+ 2018 22:14:46 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Mon, 15 Oct 2018 05:14:45 +0000
+
+20181020053138.1.1703BC3830CE5BE1@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sat, 20 Oct 2018 05:31:38 +0000
+
+Received: by 2002:a17:90a:680f:0:0:0:0 with SMTP id p15-v6csp222995pjj; Fri,
+ 19 Oct 2018 22:31:39 -0700 (PDT)
+Received: from mail5.static.discordapp.com (mail5.static.discordapp.com.
+ [166.78.68.134]) by mx.google.com with UTF8SMTPS id
+ h2si3901909itl.112.2018.10.19.22.31.39 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Fri, 19 Oct
+ 2018 22:31:39 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Sat, 20 Oct 2018 05:31:38 +0000
+
+20181021054639.1.4F1EF12532A99CE5@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sun, 21 Oct 2018 05:46:39 +0000
+
+Received: by 2002:a17:90a:680f:0:0:0:0 with SMTP id p15-v6csp1277251pjj; Sat,
+ 20 Oct 2018 22:46:40 -0700 (PDT)
+Received: from mail3.static.discordapp.com (mail3.static.discordapp.com.
+ [104.130.123.192]) by mx.google.com with UTF8SMTPS id
+ p33-v6si2870251qtd.311.2018.10.20.22.46.39 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sat, 20 Oct
+ 2018 22:46:40 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Sun, 21 Oct 2018 05:46:39 +0000
+
+20181022060140.1.6390D3CC5528974A@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Mon, 22 Oct 2018 06:01:40 +0000
+
+Received: by 2002:a17:90a:680f:0:0:0:0 with SMTP id p15-v6csp2321201pjj; Sun,
+ 21 Oct 2018 23:01:40 -0700 (PDT)
+Received: from mail4.static.discordapp.com (mail4.static.discordapp.com.
+ [104.130.123.193]) by mx.google.com with UTF8SMTPS id
+ j25-v6si127031qtc.35.2018.10.21.23.01.40 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sun, 21 Oct
+ 2018 23:01:40 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Mon, 22 Oct 2018 06:01:40 +0000
+
+20181023061641.1.5673144C8D53C609@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Tue, 23 Oct 2018 06:16:41 +0000
+
+Received: by 2002:a17:90a:680f:0:0:0:0 with SMTP id p15-v6csp3654590pjj; Mon,
+ 22 Oct 2018 23:16:42 -0700 (PDT)
+Received: from mail5.static.discordapp.com (mail5.static.discordapp.com.
+ [166.78.68.134]) by mx.google.com with UTF8SMTPS id
+ i1-v6si171483ioj.104.2018.10.22.23.16.41 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Mon, 22 Oct
+ 2018 23:16:42 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Tue, 23 Oct 2018 06:16:41 +0000
+
+20181025010041.1.1B3AFDA4BDAF3454@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Thu, 25 Oct 2018 01:00:41 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp304485pji; Wed,
+ 24 Oct 2018 18:00:42 -0700 (PDT)
+Received: from mail1.static.discordapp.com (mail1.static.discordapp.com.
+ [166.78.68.137]) by mx.google.com with UTF8SMTPS id
+ c2-v6si1761027itj.57.2018.10.24.18.00.41 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 24 Oct
+ 2018 18:00:42 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Thu, 25 Oct 2018 01:00:41 +0000
+
+20181026011543.1.90005174129CD2CB@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Fri, 26 Oct 2018 01:15:43 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp159287pji; Thu,
+ 25 Oct 2018 18:15:44 -0700 (PDT)
+Received: from mail3.static.discordapp.com (mail3.static.discordapp.com.
+ [104.130.123.192]) by mx.google.com with UTF8SMTPS id
+ j7-v6si1793321qtk.203.2018.10.25.18.15.43 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 25 Oct
+ 2018 18:15:44 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Fri, 26 Oct 2018 01:15:43 +0000
+
+20181027013044.1.442BF443F061D9A9@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sat, 27 Oct 2018 01:30:44 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp1518468pji; Fri,
+ 26 Oct 2018 18:30:45 -0700 (PDT)
+Received: from mail5.static.discordapp.com (mail5.static.discordapp.com.
+ [166.78.68.134]) by mx.google.com with UTF8SMTPS id
+ i205-v6si4622423ite.140.2018.10.26.18.30.45 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Fri, 26 Oct
+ 2018 18:30:45 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Sat, 27 Oct 2018 01:30:44 +0000
+
+20181028041553.1.8253E90942615C19@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sun, 28 Oct 2018 04:15:53 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp2690432pji; Sat,
+ 27 Oct 2018 21:15:53 -0700 (PDT)
+Received: from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ m20-v6si11858670jaf.11.2018.10.27.21.15.53 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sat, 27 Oct
+ 2018 21:15:53 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Sun, 28 Oct 2018 04:15:53 +0000
+
+20181029043055.1.86E031C013E3B2B0@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Mon, 29 Oct 2018 04:30:55 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp3764208pji; Sun,
+ 28 Oct 2018 21:30:56 -0700 (PDT)
+Received: from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ j21-v6si9114337ite.132.2018.10.28.21.30.55 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sun, 28 Oct
+ 2018 21:30:56 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Mon, 29 Oct 2018 04:30:55 +0000
+
+20181030044557.1.B0671D3B1F754D31@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Tue, 30 Oct 2018 04:45:57 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp5175828pji; Mon,
+ 29 Oct 2018 21:45:58 -0700 (PDT)
+Received: from mail6.static.discordapp.com (mail6.static.discordapp.com.
+ [104.130.123.194]) by mx.google.com with UTF8SMTPS id
+ i18si6387297qvk.157.2018.10.29.21.45.57 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Mon, 29 Oct
+ 2018 21:45:58 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Tue, 30 Oct 2018 04:45:57 +0000
+
+20181031050059.1.C294C1825E3CB960@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Wed, 31 Oct 2018 05:00:59 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp6567282pji; Tue,
+ 30 Oct 2018 22:00:59 -0700 (PDT)
+Received: from mail4.static.discordapp.com (mail4.static.discordapp.com.
+ [104.130.123.193]) by mx.google.com with UTF8SMTPS id
+ k189-v6si77099qkf.123.2018.10.30.22.00.59 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Tue, 30 Oct
+ 2018 22:00:59 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Wed, 31 Oct 2018 05:00:59 +0000
+
+20181101051600.1.A8DE83A1E7344F58@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Thu, 01 Nov 2018 05:16:00 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp352568pji; Wed,
+ 31 Oct 2018 22:16:01 -0700 (PDT)
+Received: from mail4.static.discordapp.com (mail4.static.discordapp.com.
+ [104.130.123.193]) by mx.google.com with UTF8SMTPS id
+ z102si6959124qkg.209.2018.10.31.22.16.01 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 31 Oct
+ 2018 22:16:01 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Thu, 01 Nov 2018 05:16:00 +0000
+
+20181102053101.1.AB97CDCE7B1169D1@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Fri, 02 Nov 2018 05:31:01 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp1712763pji; Thu,
+ 1 Nov 2018 22:31:02 -0700 (PDT)
+Received: from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ f55-v6si738077jal.44.2018.11.01.22.31.02 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 01 Nov
+ 2018 22:31:02 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Fri, 02 Nov 2018 05:31:01 +0000
+
+20181104060106.1.0CAD8D2D12CC1A99@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sun, 04 Nov 2018 06:01:06 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp1281290pji; Sat,
+ 3 Nov 2018 23:01:07 -0700 (PDT)
+Received: from mail6.static.discordapp.com (mail6.static.discordapp.com.
+ [104.130.123.194]) by mx.google.com with UTF8SMTPS id
+ 64-v6si8111869qvc.151.2018.11.03.23.01.07 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sat, 03 Nov
+ 2018 23:01:07 -0700 (PDT)
+Received: by luna.mailgun.net with HTTP; Sun, 04 Nov 2018 06:01:06 +0000
+
+20181105061606.1.D228F73B74E131FE@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Mon, 05 Nov 2018 06:16:06 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp2336417pji; Sun,
+ 4 Nov 2018 22:16:07 -0800 (PST)
+Received: from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ t5-v6si8686830iog.30.2018.11.04.22.16.07 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sun, 04 Nov
+ 2018 22:16:07 -0800 (PST)
+Received: by luna.mailgun.net with HTTP; Mon, 05 Nov 2018 06:16:06 +0000
+
+20181106063108.1.B98DA309A1BB80A8@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Tue, 06 Nov 2018 06:31:08 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp3658735pji; Mon,
+ 5 Nov 2018 22:31:09 -0800 (PST)
+Received: from mail4.static.discordapp.com (mail4.static.discordapp.com.
+ [104.130.123.193]) by mx.google.com with UTF8SMTPS id
+ a46si2737973qtb.19.2018.11.05.22.31.08 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Mon, 05 Nov
+ 2018 22:31:09 -0800 (PST)
+Received: by luna.mailgun.net with HTTP; Tue, 06 Nov 2018 06:31:08 +0000
+
+20181107064609.1.02D0A3A547E3E425@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Wed, 07 Nov 2018 06:46:09 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp4984380pji; Tue,
+ 6 Nov 2018 22:46:10 -0800 (PST)
+Received: from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ d3si54542itl.39.2018.11.06.22.46.09 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Tue, 06 Nov
+ 2018 22:46:10 -0800 (PST)
+Received: by luna.mailgun.net with HTTP; Wed, 07 Nov 2018 06:46:09 +0000
+
+20181108070110.1.F35EEB6BFE6F721C@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Thu, 08 Nov 2018 07:01:10 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp170064pji; Wed, 7
+ Nov 2018 23:01:11 -0800 (PST)
+Received: from mail6.static.discordapp.com (mail6.static.discordapp.com.
+ [104.130.123.194]) by mx.google.com with UTF8SMTPS id
+ u7-v6si2453067qkd.177.2018.11.07.23.01.10 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 07 Nov
+ 2018 23:01:11 -0800 (PST)
+Received: by luna.mailgun.net with HTTP; Thu, 08 Nov 2018 07:01:10 +0000
+
+20181109071611.1.FE8D49021DE34EAA@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Fri, 09 Nov 2018 07:16:11 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp1205025pji; Thu,
+ 8 Nov 2018 23:16:12 -0800 (PST)
+Received: from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ a124-v6si620554itc.6.2018.11.08.23.16.11 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 08 Nov
+ 2018 23:16:12 -0800 (PST)
+Received: by luna.mailgun.net with HTTP; Fri, 09 Nov 2018 07:16:11 +0000
+
+20181110073113.1.22C65A2E4C9605DE@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sat, 10 Nov 2018 07:31:13 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp861640pji; Fri, 9
+ Nov 2018 23:31:13 -0800 (PST)
+Received: from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ h21-v6si2929363itj.140.2018.11.09.23.31.13 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Fri, 09 Nov
+ 2018 23:31:13 -0800 (PST)
+Received: by luna.mailgun.net with HTTP; Sat, 10 Nov 2018 07:31:13 +0000
+
+20181117005709.1.249C4411562FD9DE@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sat, 17 Nov 2018 00:57:09 +0000
+
+Received: by 2002:a17:90a:e56:0:0:0:0 with SMTP id p22-v6csp1099540pja; Fri,
+ 16 Nov 2018 16:57:10 -0800 (PST)
+Received: from mail1.static.discordapp.com (mail1.static.discordapp.com.
+ [166.78.68.137]) by mx.google.com with UTF8SMTPS id
+ x88si8967207jad.66.2018.11.16.16.57.10 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Fri, 16 Nov
+ 2018 16:57:10 -0800 (PST)
+Received: by luna.mailgun.net with HTTP; Sat, 17 Nov 2018 00:57:09 +0000
+
+20181118011211.1.391801AC31F5DEF3@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sun, 18 Nov 2018 01:12:11 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp1063860pji; Sat,
+ 17 Nov 2018 17:12:13 -0800 (PST)
+Received: from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ d12si19589518itk.110.2018.11.17.17.12.12 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sat, 17 Nov
+ 2018 17:12:12 -0800 (PST)
+Received: by luna.mailgun.net with HTTP; Sun, 18 Nov 2018 01:12:11 +0000
+
+20181119012712.1.B48C2DCD11BE8BB8@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Mon, 19 Nov 2018 01:27:12 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp2108861pji; Sun,
+ 18 Nov 2018 17:27:14 -0800 (PST)
+Received: from mail5.static.discordapp.com (mail5.static.discordapp.com.
+ [166.78.68.134]) by mx.google.com with UTF8SMTPS id
+ r136si3747ith.58.2018.11.18.17.27.13 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sun, 18 Nov
+ 2018 17:27:14 -0800 (PST)
+Received: by luna.mailgun.net with HTTP; Mon, 19 Nov 2018 01:27:12 +0000
+
+20181120014214.1.551D59AA93E1016D@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Tue, 20 Nov 2018 01:42:14 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp8542pji; Mon, 19
+ Nov 2018 17:42:15 -0800 (PST)
+Received: from mail4.static.discordapp.com (mail4.static.discordapp.com.
+ [104.130.123.193]) by mx.google.com with UTF8SMTPS id
+ f1si274990qkc.106.2018.11.19.17.42.15 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Mon, 19 Nov
+ 2018 17:42:15 -0800 (PST)
+Received: by luna.mailgun.net with HTTP; Tue, 20 Nov 2018 01:42:14 +0000
+
+20181121015716.1.AB50E04918501359@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Wed, 21 Nov 2018 01:57:16 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp1328462pji; Tue,
+ 20 Nov 2018 17:57:17 -0800 (PST)
+Received: from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ p1si17782984jaj.114.2018.11.20.17.57.17 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Tue, 20 Nov
+ 2018 17:57:17 -0800 (PST)
+Received: by luna.mailgun.net with HTTP; Wed, 21 Nov 2018 01:57:16 +0000
+
+20181122061406.1.150F1148CF715393@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Thu, 22 Nov 2018 06:14:06 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp342451pji; Wed,
+ 21 Nov 2018 22:14:07 -0800 (PST)
+Received: from mail5.static.discordapp.com (mail5.static.discordapp.com.
+ [166.78.68.134]) by mx.google.com with UTF8SMTPS id
+ c3-v6si417612itc.47.2018.11.21.22.14.06 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 21 Nov
+ 2018 22:14:07 -0800 (PST)
+Received: by luna.mailgun.net with HTTP; Thu, 22 Nov 2018 06:14:06 +0000
+
+20181123062907.1.E74B7E5B653346C3@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Fri, 23 Nov 2018 06:29:07 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp1711927pji; Thu,
+ 22 Nov 2018 22:29:08 -0800 (PST)
+Received: from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ p143si24434024iod.149.2018.11.22.22.29.07 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 22 Nov
+ 2018 22:29:08 -0800 (PST)
+Received: by luna.mailgun.net with HTTP; Fri, 23 Nov 2018 06:29:07 +0000
+
+20181124064408.1.82761DB193236149@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sat, 24 Nov 2018 06:44:08 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp3150486pji; Fri,
+ 23 Nov 2018 22:44:09 -0800 (PST)
+Received: from mail1.static.discordapp.com (mail1.static.discordapp.com.
+ [166.78.68.137]) by mx.google.com with UTF8SMTPS id
+ v189-v6si37151236iof.117.2018.11.23.22.44.09 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Fri, 23 Nov
+ 2018 22:44:09 -0800 (PST)
+Received: by luna.mailgun.net with HTTP; Sat, 24 Nov 2018 06:44:08 +0000
+
+20181125065910.1.F9C81048CCC5DD57@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sun, 25 Nov 2018 06:59:10 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp4245593pji; Sat,
+ 24 Nov 2018 22:59:11 -0800 (PST)
+Received: from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ l40si31845375jaj.107.2018.11.24.22.59.11 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sat, 24 Nov
+ 2018 22:59:11 -0800 (PST)
+Received: by luna.mailgun.net with HTTP; Sun, 25 Nov 2018 06:59:10 +0000
+
+20181126071412.1.4F02A901588505EA@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Mon, 26 Nov 2018 07:14:12 +0000
+
+Received: by 2002:a17:90a:600f:0:0:0:0 with SMTP id y15-v6csp5412606pji; Sun,
+ 25 Nov 2018 23:14:13 -0800 (PST)
+Received: from mail3.static.discordapp.com (mail3.static.discordapp.com.
+ [104.130.123.192]) by mx.google.com with UTF8SMTPS id
+ t22si987449qtq.46.2018.11.25.23.14.13 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sun, 25 Nov
+ 2018 23:14:13 -0800 (PST)
+Received: by luna.mailgun.net with HTTP; Mon, 26 Nov 2018 07:14:12 +0000
+
+20180702081954.1.846BB058AAB071FC@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Mon, 02 Jul 2018 08:19:54 +0000
+
+ by luna.mailgun.net with HTTP; Mon, 02 Jul 2018 08:19:54 +0000
+
+ from mail6.static.discordapp.com (mail6.static.discordapp.com.
+ [104.130.123.194]) by mx.google.com with UTF8SMTPS id
+ p123-v6si2516241qkc.311.2018.07.02.01.19.55 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Mon, 02 Jul
+ 2018 01:19:55 -0700 (PDT)
+20180710002122.1.A70586E87C81E44F@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Tue, 10 Jul 2018 00:21:22 +0000
+
+ by luna.mailgun.net with HTTP; Tue, 10 Jul 2018 00:21:22 +0000
+
+ from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ q5-v6si10703557iti.92.2018.07.09.17.21.23 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Mon, 09 Jul
+ 2018 17:21:23 -0700 (PDT)
+20180711075154.1.8D77F3FCFAC35AE5@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Wed, 11 Jul 2018 07:51:54 +0000
+
+ by luna.mailgun.net with HTTP; Wed, 11 Jul 2018 07:51:54 +0000
+
+ from mail6.static.discordapp.com (mail6.static.discordapp.com.
+ [104.130.123.194]) by mx.google.com with UTF8SMTPS id
+ n10-v6si3665039qtp.100.2018.07.11.00.51.54 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 11 Jul
+ 2018 00:51:54 -0700 (PDT)
+20180712152745.1.296F0F29F2A97AF9@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Thu, 12 Jul 2018 15:27:45 +0000
+
+ by luna.mailgun.net with HTTP; Thu, 12 Jul 2018 15:27:45 +0000
+
+ from mail4.static.discordapp.com (mail4.static.discordapp.com.
+ [104.130.123.193]) by mx.google.com with UTF8SMTPS id
+ m13-v6si3143617qkm.336.2018.07.12.08.27.45 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 12 Jul
+ 2018 08:27:46 -0700 (PDT)
+20180714155748.1.351A3D1786A93703@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sat, 14 Jul 2018 15:57:48 +0000
+
+ by luna.mailgun.net with HTTP; Sat, 14 Jul 2018 15:57:48 +0000
+
+ from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ t10-v6si3044127jaa.26.2018.07.14.08.57.49 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sat, 14 Jul
+ 2018 08:57:49 -0700 (PDT)
+20180715234213.1.2B4E52F120C9A9FC@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sun, 15 Jul 2018 23:42:13 +0000
+
+ by luna.mailgun.net with HTTP; Sun, 15 Jul 2018 23:42:13 +0000
+
+ from mail3.static.discordapp.com (mail3.static.discordapp.com.
+ [104.130.123.192]) by mx.google.com with UTF8SMTPS id
+ i93-v6si1677262qtb.266.2018.07.15.16.42.13 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sun, 15 Jul
+ 2018 16:42:14 -0700 (PDT)
+20180716235714.1.373E98044B86F3CA@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Mon, 16 Jul 2018 23:57:14 +0000
+
+ by luna.mailgun.net with HTTP; Mon, 16 Jul 2018 23:57:14 +0000
+
+ from mail4.static.discordapp.com (mail4.static.discordapp.com.
+ [104.130.123.193]) by mx.google.com with UTF8SMTPS id
+ t188-v6si15717834qkf.249.2018.07.16.16.57.15 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Mon, 16 Jul
+ 2018 16:57:16 -0700 (PDT)
+20180718001215.1.207F8AB49589AEC3@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Wed, 18 Jul 2018 00:12:15 +0000
+
+ by luna.mailgun.net with HTTP; Wed, 18 Jul 2018 00:12:15 +0000
+
+ from mail4.static.discordapp.com (mail4.static.discordapp.com.
+ [104.130.123.193]) by mx.google.com with UTF8SMTPS id
+ i1-v6si2440333qvm.272.2018.07.17.17.12.16 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Tue, 17 Jul
+ 2018 17:12:17 -0700 (PDT)
+20180802013544.1.4603816E2E3267A4@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Thu, 02 Aug 2018 01:35:44 +0000
+
+ by luna.mailgun.net with HTTP; Thu, 02 Aug 2018 01:35:44 +0000
+
+ from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ c186-v6si285999itc.75.2018.08.01.18.35.45 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 01 Aug
+ 2018 18:35:45 -0700 (PDT)
+20180803015046.1.A48ADAD0BBBF53E6@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Fri, 03 Aug 2018 01:50:46 +0000
+
+ by luna.mailgun.net with HTTP; Fri, 03 Aug 2018 01:50:46 +0000
+
+ from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ k7-v6si2246344ith.120.2018.08.02.18.50.47 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 02 Aug
+ 2018 18:50:47 -0700 (PDT)
+20180924202639.1.676C7AA40F33D3D1@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Mon, 24 Sep 2018 20:26:39 +0000
+
+ by luna.mailgun.net with HTTP; Mon, 24 Sep 2018 20:26:39 +0000
+
+ from mail6.static.discordapp.com (mail6.static.discordapp.com.
+ [104.130.123.194]) by mx.google.com with UTF8SMTPS id
+ u44-v6si120851oth.387.2018.09.24.13.26.40 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Mon, 24 Sep
+ 2018 13:26:40 -0700 (PDT)
+20180926205642.1.32CE3A29DA85234A@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Wed, 26 Sep 2018 20:56:42 +0000
+
+ by luna.mailgun.net with HTTP; Wed, 26 Sep 2018 20:56:42 +0000
+
+ from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ e14-v6si26923jal.104.2018.09.26.13.56.42 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 26 Sep
+ 2018 13:56:43 -0700 (PDT)
+20181007000726.1.EE265D343A30E606@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sun, 07 Oct 2018 00:07:26 +0000
+
+ by luna.mailgun.net with HTTP; Sun, 07 Oct 2018 00:07:26 +0000
+
+ from mail6.static.discordapp.com (mail6.static.discordapp.com.
+ [104.130.123.194]) by mx.google.com with UTF8SMTPS id
+ v7-v6si5923339oig.199.2018.10.06.17.07.26 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sat, 06 Oct
+ 2018 17:07:27 -0700 (PDT)
+20181011041438.1.08EFA070037AE109@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Thu, 11 Oct 2018 04:14:38 +0000
+
+ by luna.mailgun.net with HTTP; Thu, 11 Oct 2018 04:14:38 +0000
+
+ from mail1.static.discordapp.com (mail1.static.discordapp.com.
+ [166.78.68.137]) by mx.google.com with UTF8SMTPS id
+ m11-v6si16220084ioq.144.2018.10.10.21.14.39 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 10 Oct
+ 2018 21:14:39 -0700 (PDT)
+20181012042940.1.78B8D899894BE906@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Fri, 12 Oct 2018 04:29:40 +0000
+
+ by luna.mailgun.net with HTTP; Fri, 12 Oct 2018 04:29:40 +0000
+
+ from mail1.static.discordapp.com (mail1.static.discordapp.com.
+ [166.78.68.137]) by mx.google.com with UTF8SMTPS id
+ n18-v6si11162jal.28.2018.10.11.21.29.41 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 11 Oct
+ 2018 21:29:41 -0700 (PDT)
+20181013044443.1.FD60586DB8BC4D9E@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sat, 13 Oct 2018 04:44:43 +0000
+
+ by luna.mailgun.net with HTTP; Sat, 13 Oct 2018 04:44:43 +0000
+
+ from mail6.static.discordapp.com (mail6.static.discordapp.com.
+ [104.130.123.194]) by mx.google.com with UTF8SMTPS id
+ x42-v6si1692221qvf.28.2018.10.12.21.44.43 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Fri, 12 Oct
+ 2018 21:44:44 -0700 (PDT)
+20181014045944.1.140C5B2FE5CCF3B5@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sun, 14 Oct 2018 04:59:44 +0000
+
+ by luna.mailgun.net with HTTP; Sun, 14 Oct 2018 04:59:44 +0000
+
+ from mail6.static.discordapp.com (mail6.static.discordapp.com.
+ [104.130.123.194]) by mx.google.com with UTF8SMTPS id
+ w128-v6si5362536qkc.27.2018.10.13.21.59.44 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sat, 13 Oct
+ 2018 21:59:45 -0700 (PDT)
+20181015051445.1.1EA156B92B49B49C@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Mon, 15 Oct 2018 05:14:45 +0000
+
+ by luna.mailgun.net with HTTP; Mon, 15 Oct 2018 05:14:45 +0000
+
+ from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ t77-v6si6512831ita.60.2018.10.14.22.14.45 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sun, 14 Oct
+ 2018 22:14:46 -0700 (PDT)
+20181020053138.1.1703BC3830CE5BE1@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sat, 20 Oct 2018 05:31:38 +0000
+
+ by luna.mailgun.net with HTTP; Sat, 20 Oct 2018 05:31:38 +0000
+
+ from mail5.static.discordapp.com (mail5.static.discordapp.com.
+ [166.78.68.134]) by mx.google.com with UTF8SMTPS id
+ h2si3901909itl.112.2018.10.19.22.31.39 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Fri, 19 Oct
+ 2018 22:31:39 -0700 (PDT)
+20181021054639.1.4F1EF12532A99CE5@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sun, 21 Oct 2018 05:46:39 +0000
+
+ by luna.mailgun.net with HTTP; Sun, 21 Oct 2018 05:46:39 +0000
+
+ from mail3.static.discordapp.com (mail3.static.discordapp.com.
+ [104.130.123.192]) by mx.google.com with UTF8SMTPS id
+ p33-v6si2870251qtd.311.2018.10.20.22.46.39 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sat, 20 Oct
+ 2018 22:46:40 -0700 (PDT)
+20181022060140.1.6390D3CC5528974A@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Mon, 22 Oct 2018 06:01:40 +0000
+
+ by luna.mailgun.net with HTTP; Mon, 22 Oct 2018 06:01:40 +0000
+
+ from mail4.static.discordapp.com (mail4.static.discordapp.com.
+ [104.130.123.193]) by mx.google.com with UTF8SMTPS id
+ j25-v6si127031qtc.35.2018.10.21.23.01.40 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sun, 21 Oct
+ 2018 23:01:40 -0700 (PDT)
+20181023061641.1.5673144C8D53C609@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Tue, 23 Oct 2018 06:16:41 +0000
+
+ by luna.mailgun.net with HTTP; Tue, 23 Oct 2018 06:16:41 +0000
+
+ from mail5.static.discordapp.com (mail5.static.discordapp.com.
+ [166.78.68.134]) by mx.google.com with UTF8SMTPS id
+ i1-v6si171483ioj.104.2018.10.22.23.16.41 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Mon, 22 Oct
+ 2018 23:16:42 -0700 (PDT)
+20181025010041.1.1B3AFDA4BDAF3454@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Thu, 25 Oct 2018 01:00:41 +0000
+
+ by luna.mailgun.net with HTTP; Thu, 25 Oct 2018 01:00:41 +0000
+
+ from mail1.static.discordapp.com (mail1.static.discordapp.com.
+ [166.78.68.137]) by mx.google.com with UTF8SMTPS id
+ c2-v6si1761027itj.57.2018.10.24.18.00.41 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 24 Oct
+ 2018 18:00:42 -0700 (PDT)
+20181026011543.1.90005174129CD2CB@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Fri, 26 Oct 2018 01:15:43 +0000
+
+ by luna.mailgun.net with HTTP; Fri, 26 Oct 2018 01:15:43 +0000
+
+ from mail3.static.discordapp.com (mail3.static.discordapp.com.
+ [104.130.123.192]) by mx.google.com with UTF8SMTPS id
+ j7-v6si1793321qtk.203.2018.10.25.18.15.43 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 25 Oct
+ 2018 18:15:44 -0700 (PDT)
+20181027013044.1.442BF443F061D9A9@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sat, 27 Oct 2018 01:30:44 +0000
+
+ by luna.mailgun.net with HTTP; Sat, 27 Oct 2018 01:30:44 +0000
+
+ from mail5.static.discordapp.com (mail5.static.discordapp.com.
+ [166.78.68.134]) by mx.google.com with UTF8SMTPS id
+ i205-v6si4622423ite.140.2018.10.26.18.30.45 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Fri, 26 Oct
+ 2018 18:30:45 -0700 (PDT)
+20181028041553.1.8253E90942615C19@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sun, 28 Oct 2018 04:15:53 +0000
+
+ by luna.mailgun.net with HTTP; Sun, 28 Oct 2018 04:15:53 +0000
+
+ from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ m20-v6si11858670jaf.11.2018.10.27.21.15.53 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sat, 27 Oct
+ 2018 21:15:53 -0700 (PDT)
+20181029043055.1.86E031C013E3B2B0@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Mon, 29 Oct 2018 04:30:55 +0000
+
+ by luna.mailgun.net with HTTP; Mon, 29 Oct 2018 04:30:55 +0000
+
+ from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ j21-v6si9114337ite.132.2018.10.28.21.30.55 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sun, 28 Oct
+ 2018 21:30:56 -0700 (PDT)
+20181030044557.1.B0671D3B1F754D31@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Tue, 30 Oct 2018 04:45:57 +0000
+
+ by luna.mailgun.net with HTTP; Tue, 30 Oct 2018 04:45:57 +0000
+
+ from mail6.static.discordapp.com (mail6.static.discordapp.com.
+ [104.130.123.194]) by mx.google.com with UTF8SMTPS id
+ i18si6387297qvk.157.2018.10.29.21.45.57 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Mon, 29 Oct
+ 2018 21:45:58 -0700 (PDT)
+20181031050059.1.C294C1825E3CB960@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Wed, 31 Oct 2018 05:00:59 +0000
+
+ by luna.mailgun.net with HTTP; Wed, 31 Oct 2018 05:00:59 +0000
+
+ from mail4.static.discordapp.com (mail4.static.discordapp.com.
+ [104.130.123.193]) by mx.google.com with UTF8SMTPS id
+ k189-v6si77099qkf.123.2018.10.30.22.00.59 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Tue, 30 Oct
+ 2018 22:00:59 -0700 (PDT)
+20181101051600.1.A8DE83A1E7344F58@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Thu, 01 Nov 2018 05:16:00 +0000
+
+ by luna.mailgun.net with HTTP; Thu, 01 Nov 2018 05:16:00 +0000
+
+ from mail4.static.discordapp.com (mail4.static.discordapp.com.
+ [104.130.123.193]) by mx.google.com with UTF8SMTPS id
+ z102si6959124qkg.209.2018.10.31.22.16.01 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 31 Oct
+ 2018 22:16:01 -0700 (PDT)
+20181102053101.1.AB97CDCE7B1169D1@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Fri, 02 Nov 2018 05:31:01 +0000
+
+ by luna.mailgun.net with HTTP; Fri, 02 Nov 2018 05:31:01 +0000
+
+ from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ f55-v6si738077jal.44.2018.11.01.22.31.02 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 01 Nov
+ 2018 22:31:02 -0700 (PDT)
+20181104060106.1.0CAD8D2D12CC1A99@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sun, 04 Nov 2018 06:01:06 +0000
+
+ by luna.mailgun.net with HTTP; Sun, 04 Nov 2018 06:01:06 +0000
+
+ from mail6.static.discordapp.com (mail6.static.discordapp.com.
+ [104.130.123.194]) by mx.google.com with UTF8SMTPS id
+ 64-v6si8111869qvc.151.2018.11.03.23.01.07 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sat, 03 Nov
+ 2018 23:01:07 -0700 (PDT)
+20181105061606.1.D228F73B74E131FE@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Mon, 05 Nov 2018 06:16:06 +0000
+
+ by luna.mailgun.net with HTTP; Mon, 05 Nov 2018 06:16:06 +0000
+
+ from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ t5-v6si8686830iog.30.2018.11.04.22.16.07 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sun, 04 Nov
+ 2018 22:16:07 -0800 (PST)
+20181106063108.1.B98DA309A1BB80A8@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Tue, 06 Nov 2018 06:31:08 +0000
+
+ by luna.mailgun.net with HTTP; Tue, 06 Nov 2018 06:31:08 +0000
+
+ from mail4.static.discordapp.com (mail4.static.discordapp.com.
+ [104.130.123.193]) by mx.google.com with UTF8SMTPS id
+ a46si2737973qtb.19.2018.11.05.22.31.08 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Mon, 05 Nov
+ 2018 22:31:09 -0800 (PST)
+20181107064609.1.02D0A3A547E3E425@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Wed, 07 Nov 2018 06:46:09 +0000
+
+ by luna.mailgun.net with HTTP; Wed, 07 Nov 2018 06:46:09 +0000
+
+ from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ d3si54542itl.39.2018.11.06.22.46.09 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Tue, 06 Nov
+ 2018 22:46:10 -0800 (PST)
+20181108070110.1.F35EEB6BFE6F721C@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Thu, 08 Nov 2018 07:01:10 +0000
+
+ by luna.mailgun.net with HTTP; Thu, 08 Nov 2018 07:01:10 +0000
+
+ from mail6.static.discordapp.com (mail6.static.discordapp.com.
+ [104.130.123.194]) by mx.google.com with UTF8SMTPS id
+ u7-v6si2453067qkd.177.2018.11.07.23.01.10 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 07 Nov
+ 2018 23:01:11 -0800 (PST)
+20181109071611.1.FE8D49021DE34EAA@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Fri, 09 Nov 2018 07:16:11 +0000
+
+ by luna.mailgun.net with HTTP; Fri, 09 Nov 2018 07:16:11 +0000
+
+ from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ a124-v6si620554itc.6.2018.11.08.23.16.11 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 08 Nov
+ 2018 23:16:12 -0800 (PST)
+20181110073113.1.22C65A2E4C9605DE@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sat, 10 Nov 2018 07:31:13 +0000
+
+ by luna.mailgun.net with HTTP; Sat, 10 Nov 2018 07:31:13 +0000
+
+ from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ h21-v6si2929363itj.140.2018.11.09.23.31.13 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Fri, 09 Nov
+ 2018 23:31:13 -0800 (PST)
+20181117005709.1.249C4411562FD9DE@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sat, 17 Nov 2018 00:57:09 +0000
+
+ by luna.mailgun.net with HTTP; Sat, 17 Nov 2018 00:57:09 +0000
+
+ from mail1.static.discordapp.com (mail1.static.discordapp.com.
+ [166.78.68.137]) by mx.google.com with UTF8SMTPS id
+ x88si8967207jad.66.2018.11.16.16.57.10 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Fri, 16 Nov
+ 2018 16:57:10 -0800 (PST)
+20181118011211.1.391801AC31F5DEF3@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sun, 18 Nov 2018 01:12:11 +0000
+
+ by luna.mailgun.net with HTTP; Sun, 18 Nov 2018 01:12:11 +0000
+
+ from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ d12si19589518itk.110.2018.11.17.17.12.12 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sat, 17 Nov
+ 2018 17:12:12 -0800 (PST)
+20181119012712.1.B48C2DCD11BE8BB8@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Mon, 19 Nov 2018 01:27:12 +0000
+
+ by luna.mailgun.net with HTTP; Mon, 19 Nov 2018 01:27:12 +0000
+
+ from mail5.static.discordapp.com (mail5.static.discordapp.com.
+ [166.78.68.134]) by mx.google.com with UTF8SMTPS id
+ r136si3747ith.58.2018.11.18.17.27.13 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sun, 18 Nov
+ 2018 17:27:14 -0800 (PST)
+20181120014214.1.551D59AA93E1016D@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Tue, 20 Nov 2018 01:42:14 +0000
+
+ by luna.mailgun.net with HTTP; Tue, 20 Nov 2018 01:42:14 +0000
+
+ from mail4.static.discordapp.com (mail4.static.discordapp.com.
+ [104.130.123.193]) by mx.google.com with UTF8SMTPS id
+ f1si274990qkc.106.2018.11.19.17.42.15 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Mon, 19 Nov
+ 2018 17:42:15 -0800 (PST)
+20181121015716.1.AB50E04918501359@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Wed, 21 Nov 2018 01:57:16 +0000
+
+ by luna.mailgun.net with HTTP; Wed, 21 Nov 2018 01:57:16 +0000
+
+ from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ p1si17782984jaj.114.2018.11.20.17.57.17 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Tue, 20 Nov
+ 2018 17:57:17 -0800 (PST)
+20181122061406.1.150F1148CF715393@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Thu, 22 Nov 2018 06:14:06 +0000
+
+ by luna.mailgun.net with HTTP; Thu, 22 Nov 2018 06:14:06 +0000
+
+ from mail5.static.discordapp.com (mail5.static.discordapp.com.
+ [166.78.68.134]) by mx.google.com with UTF8SMTPS id
+ c3-v6si417612itc.47.2018.11.21.22.14.06 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 21 Nov
+ 2018 22:14:07 -0800 (PST)
+20181123062907.1.E74B7E5B653346C3@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Fri, 23 Nov 2018 06:29:07 +0000
+
+ by luna.mailgun.net with HTTP; Fri, 23 Nov 2018 06:29:07 +0000
+
+ from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ p143si24434024iod.149.2018.11.22.22.29.07 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 22 Nov
+ 2018 22:29:08 -0800 (PST)
+20181124064408.1.82761DB193236149@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sat, 24 Nov 2018 06:44:08 +0000
+
+ by luna.mailgun.net with HTTP; Sat, 24 Nov 2018 06:44:08 +0000
+
+ from mail1.static.discordapp.com (mail1.static.discordapp.com.
+ [166.78.68.137]) by mx.google.com with UTF8SMTPS id
+ v189-v6si37151236iof.117.2018.11.23.22.44.09 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Fri, 23 Nov
+ 2018 22:44:09 -0800 (PST)
+20181125065910.1.F9C81048CCC5DD57@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Sun, 25 Nov 2018 06:59:10 +0000
+
+ by luna.mailgun.net with HTTP; Sun, 25 Nov 2018 06:59:10 +0000
+
+ from mail2.static.discordapp.com (mail2.static.discordapp.com.
+ [166.78.68.136]) by mx.google.com with UTF8SMTPS id
+ l40si31845375jaj.107.2018.11.24.22.59.11 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sat, 24 Nov
+ 2018 22:59:11 -0800 (PST)
+20181126071412.1.4F02A901588505EA@mailgun.discordapp.com
+From: Discord <notifications@discordapp.com>
+
+Date: Mon, 26 Nov 2018 07:14:12 +0000
+
+ by luna.mailgun.net with HTTP; Mon, 26 Nov 2018 07:14:12 +0000
+
+ from mail3.static.discordapp.com (mail3.static.discordapp.com.
+ [104.130.123.192]) by mx.google.com with UTF8SMTPS id
+ t22si987449qtq.46.2018.11.25.23.14.13 for <marcosfantoval.1@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sun, 25 Nov
+ 2018 23:14:13 -0800 (PST)

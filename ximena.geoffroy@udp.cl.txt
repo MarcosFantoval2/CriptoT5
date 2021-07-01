@@ -1,0 +1,1079 @@
+SA0PR20MB3469C6977A610779FEC867BD8BC60@SA0PR20MB3469.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Tue, 15 Dec 2020 15:01:01 +0000
+
+
+
+ from SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::6010:fb0f:f4f9:1a2]) by SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::6010:fb0f:f4f9:1a2%7]) with mapi id 15.20.3654.025; Tue, 15 Dec 2020
+
+ 15:01:01 +0000
+
+
+
+ from NAM04-SN1-obe.outbound.protection.outlook.com
+
+ (mail-eopbgr700049.outbound.protection.outlook.com. [40.107.70.49]) by
+
+ mx.google.com with ESMTPS id t65si896303oif.45.2020.12.15.07.01.02 for
+
+ <marcos.fantoval@mail.udp.cl> (version=TLS1_2
+
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Tue, 15 Dec 2020 07:01:02
+
+ -0800 (PST)
+
+SA0PR20MB3469D4202BA519CFFC96BDF58BC60@SA0PR20MB3469.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Tue, 15 Dec 2020 15:26:28 +0000
+
+
+
+ from SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::6010:fb0f:f4f9:1a2]) by SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::6010:fb0f:f4f9:1a2%7]) with mapi id 15.20.3654.025; Tue, 15 Dec 2020
+
+ 15:26:28 +0000
+
+
+
+ from NAM02-SN1-obe.outbound.protection.outlook.com
+
+ (mail-eopbgr770087.outbound.protection.outlook.com. [40.107.77.87]) by
+
+ mx.google.com with ESMTPS id v25si10968373oth.82.2020.12.15.07.26.29 for
+
+ <marcos.fantoval@mail.udp.cl> (version=TLS1_2
+
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Tue, 15 Dec 2020 07:26:29
+
+ -0800 (PST)
+
+SA0PR20MB3469FD22D22910E4A0D7A2968BC60@SA0PR20MB3469.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Tue, 15 Dec 2020 17:06:40 +0000
+
+
+
+ from SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::6010:fb0f:f4f9:1a2]) by SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::6010:fb0f:f4f9:1a2%7]) with mapi id 15.20.3654.025; Tue, 15 Dec 2020
+
+ 17:06:40 +0000
+
+
+
+ from NAM11-BN8-obe.outbound.protection.outlook.com
+
+ (mail-bn8nam11on2078.outbound.protection.outlook.com. [40.107.236.78]) by
+
+ mx.google.com with ESMTPS id x3si10235108qvt.150.2020.12.15.09.06.41 for
+
+ <marcos.fantoval@mail.udp.cl> (version=TLS1_2
+
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Tue, 15 Dec 2020 09:06:41
+
+ -0800 (PST)
+
+SA0PR20MB3469F27D12ACD04F9F2276568BDF0@SA0PR20MB3469.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Tue, 22 Dec 2020 20:02:44 +0000
+
+
+
+ from SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35]) by SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35%6]) with mapi id 15.20.3676.033; Tue, 22 Dec 2020
+
+ 20:02:45 +0000
+
+
+
+ from NAM11-BN8-obe.outbound.protection.outlook.com
+
+ (mail-bn8nam11on2058.outbound.protection.outlook.com. [40.107.236.58]) by
+
+ mx.google.com with ESMTPS id n8si9465868qkg.257.2020.12.22.12.02.48
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Tue, 22
+
+ Dec 2020 12:02:51 -0800 (PST)
+
+SA0PR20MB34696D529EE52E5C4B0BFF9E8BD20@SA0PR20MB3469.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Mon, 4 Jan 2021 15:57:31 +0000
+
+
+
+ from SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35]) by SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35%6]) with mapi id 15.20.3721.024; Mon, 4 Jan 2021
+
+ 15:57:32 +0000
+
+
+
+ from NAM10-DM6-obe.outbound.protection.outlook.com
+
+ (mail-dm6nam10on2057.outbound.protection.outlook.com. [40.107.93.57]) by
+
+ mx.google.com with ESMTPS id e19si27919659otk.35.2021.01.04.07.57.32 for
+
+ <marcos.fantoval@mail.udp.cl> (version=TLS1_2
+
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Mon, 04 Jan 2021 07:57:33
+
+ -0800 (PST)
+
+SA0PR20MB3469D0A390B738D8CD1312D18BAF0@SA0PR20MB3469.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Thu, 7 Jan 2021 21:25:02 +0000
+
+
+
+ from SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35]) by SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35%6]) with mapi id 15.20.3742.008; Thu, 7 Jan 2021
+
+ 21:25:02 +0000
+
+
+
+ from NAM02-BL2-obe.outbound.protection.outlook.com
+
+ (mail-eopbgr750052.outbound.protection.outlook.com. [40.107.75.52]) by
+
+ mx.google.com with ESMTPS id f4si1388082qtc.256.2021.01.07.13.25.02 for
+
+ <marcos.fantoval@mail.udp.cl> (version=TLS1_2
+
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Thu, 07 Jan 2021 13:25:02
+
+ -0800 (PST)
+
+SA0PR20MB34693892827ABBC658FDF6738BAF0@SA0PR20MB3469.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Thu, 7 Jan 2021 21:35:03 +0000
+
+
+
+ from SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35]) by SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35%6]) with mapi id 15.20.3742.008; Thu, 7 Jan 2021
+
+ 21:35:04 +0000
+
+
+
+ from NAM04-BN8-obe.outbound.protection.outlook.com
+
+ (mail-bn8nam08on2081.outbound.protection.outlook.com. [40.107.100.81]) by
+
+ mx.google.com with ESMTPS id t2si3913564qta.291.2021.01.07.13.35.04 for
+
+ <marcos.fantoval@mail.udp.cl> (version=TLS1_2
+
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Thu, 07 Jan 2021 13:35:04
+
+ -0800 (PST)
+
+SA0PR20MB3469E25C10966E61FB253F678BAB0@SA0PR20MB3469.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Mon, 11 Jan 2021 18:22:06 +0000
+
+
+
+ from SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35]) by SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35%6]) with mapi id 15.20.3742.012; Mon, 11 Jan 2021
+
+ 18:22:07 +0000
+
+
+
+ from NAM11-DM6-obe.outbound.protection.outlook.com
+
+ (mail-dm6nam11on2083.outbound.protection.outlook.com. [40.107.223.83]) by
+
+ mx.google.com with ESMTPS id c63si220509ila.159.2021.01.11.10.22.09
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Mon, 11
+
+ Jan 2021 10:22:15 -0800 (PST)
+
+SA0PR20MB3469DED783257348C35A8BD68BAA0@SA0PR20MB3469.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Tue, 12 Jan 2021 19:59:02 +0000
+
+
+
+ from SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35]) by SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35%6]) with mapi id 15.20.3742.012; Tue, 12 Jan 2021
+
+ 19:59:03 +0000
+
+
+
+ from NAM02-CY1-obe.outbound.protection.outlook.com
+
+ (mail-eopbgr760057.outbound.protection.outlook.com. [40.107.76.57]) by
+
+ mx.google.com with ESMTPS id k2si3753004ilv.45.2021.01.12.11.59.08
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Tue, 12
+
+ Jan 2021 11:59:16 -0800 (PST)
+
+SA0PR20MB34692AB59214CEEC6D4FAA848BA90@SA0PR20MB3469.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Wed, 13 Jan 2021 16:30:05 +0000
+
+
+
+ from SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35]) by SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35%6]) with mapi id 15.20.3742.012; Wed, 13 Jan 2021
+
+ 16:30:06 +0000
+
+
+
+ from NAM11-BN8-obe.outbound.protection.outlook.com
+
+ (mail-bn8nam11on2060.outbound.protection.outlook.com. [40.107.236.60]) by
+
+ mx.google.com with ESMTPS id 17si1183551qkl.308.2021.01.13.08.30.22
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Wed, 13
+
+ Jan 2021 08:30:58 -0800 (PST)
+
+SA0PR20MB346976804E77A4879651BF548BA90@SA0PR20MB3469.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Wed, 13 Jan 2021 19:11:06 +0000
+
+
+
+ from SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35]) by SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35%6]) with mapi id 15.20.3742.012; Wed, 13 Jan 2021
+
+ 19:11:07 +0000
+
+
+
+ from NAM10-DM6-obe.outbound.protection.outlook.com
+
+ (mail-dm6nam10hn2246.outbound.protection.outlook.com. [52.100.156.246]) by
+
+ mx.google.com with ESMTPS id h1si1835750iop.29.2021.01.13.11.11.12
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Wed, 13
+
+ Jan 2021 11:11:19 -0800 (PST)
+
+SA0PR20MB346914AE9551AAC9C0516F968BA80@SA0PR20MB3469.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Thu, 14 Jan 2021 18:16:37 +0000
+
+
+
+ from SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35]) by SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35%5]) with mapi id 15.20.3763.011; Thu, 14 Jan 2021
+
+ 18:16:37 +0000
+
+
+
+ from NAM11-DM6-obe.outbound.protection.outlook.com
+
+ (mail-dm6nam11on2069.outbound.protection.outlook.com. [40.107.223.69]) by
+
+ mx.google.com with ESMTPS id q15si4694428jat.69.2021.01.14.10.16.40
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Thu, 14
+
+ Jan 2021 10:16:42 -0800 (PST)
+
+SA0PR20MB3469872AC66F146183C5F09F8BBD9@SA0PR20MB3469.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Mon, 25 Jan 2021 13:49:23 +0000
+
+
+
+ from SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35]) by SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35%6]) with mapi id 15.20.3784.019; Mon, 25 Jan 2021
+
+ 13:49:24 +0000
+
+
+
+ from NAM12-MW2-obe.outbound.protection.outlook.com
+
+ (mail-mw2nam12on2064.outbound.protection.outlook.com. [40.107.244.64]) by
+
+ mx.google.com with ESMTPS id m2si21895488pfd.222.2021.01.25.05.49.26
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Mon, 25
+
+ Jan 2021 05:49:32 -0800 (PST)
+
+SA0PR20MB3469B533AC7374FE16D625E58BBD9@SA0PR20MB3469.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Mon, 25 Jan 2021 13:52:50 +0000
+
+
+
+ from SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35]) by SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35%6]) with mapi id 15.20.3784.019; Mon, 25 Jan 2021
+
+ 13:52:50 +0000
+
+
+
+ from NAM10-MW2-obe.outbound.protection.outlook.com
+
+ (mail-mw2nam10on2059.outbound.protection.outlook.com. [40.107.94.59]) by
+
+ mx.google.com with ESMTPS id mv22si19168212pjb.146.2021.01.25.05.52.53
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Mon, 25
+
+ Jan 2021 05:52:55 -0800 (PST)
+
+SA0PR20MB3469D3C807E50024DC376AFE8BB59@SA0PR20MB3469.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Tue, 2 Feb 2021 13:13:31 +0000
+
+
+
+ from SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35]) by SA0PR20MB3469.namprd20.prod.outlook.com
+
+ ([fe80::bd0b:144b:3ad:2d35%5]) with mapi id 15.20.3825.017; Tue, 2 Feb 2021
+
+ 13:13:32 +0000
+
+
+
+ from NAM11-DM6-obe.outbound.protection.outlook.com
+
+ (mail-dm6nam11on2077.outbound.protection.outlook.com. [40.107.223.77]) by
+
+ mx.google.com with ESMTPS id a21si13844994jat.85.2021.02.02.05.13.36
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Tue, 02
+
+ Feb 2021 05:13:53 -0800 (PST)
+
+BLAPR20MB3873E8BDBDDD0F5210C5593F8B9A9@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Mon, 1 Mar 2021 15:33:13 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a%4]) with mapi id 15.20.3890.029; Mon, 1 Mar 2021
+
+ 15:33:14 +0000
+
+
+
+ from NAM11-DM6-obe.outbound.protection.outlook.com
+
+ (mail-dm6nam11on2047.outbound.protection.outlook.com. [40.107.223.47]) by
+
+ mx.google.com with ESMTPS id l8si12155124otf.273.2021.03.01.07.33.16
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Mon, 01
+
+ Mar 2021 07:33:30 -0800 (PST)
+
+BLAPR20MB3873A53231260C4CCF2CFBD58B9A9@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Mon, 1 Mar 2021 17:40:56 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a%4]) with mapi id 15.20.3890.029; Mon, 1 Mar 2021
+
+ 17:40:56 +0000
+
+
+
+ from NAM11-DM6-obe.outbound.protection.outlook.com
+
+ (mail-dm6nam11on2075.outbound.protection.outlook.com. [40.107.223.75]) by
+
+ mx.google.com with ESMTPS id t27si13962706otd.289.2021.03.01.09.40.59
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Mon, 01
+
+ Mar 2021 09:41:02 -0800 (PST)
+
+BLAPR20MB3873202E402797A114D2DEEB8B989@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Wed, 3 Mar 2021 13:43:48 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a%4]) with mapi id 15.20.3912.017; Wed, 3 Mar 2021
+
+ 13:43:50 +0000
+
+
+
+ from NAM02-SN1-obe.outbound.protection.outlook.com
+
+ (mail-bgr052100133057.outbound.protection.outlook.com. [52.100.133.57]) by
+
+ mx.google.com with ESMTPS id l12si15116513otq.220.2021.03.03.05.43.54
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Wed, 03
+
+ Mar 2021 05:44:01 -0800 (PST)
+
+BLAPR20MB3873E0D6B5477941396225B68B979@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Thu, 4 Mar 2021 14:50:55 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a%4]) with mapi id 15.20.3912.021; Thu, 4 Mar 2021
+
+ 14:50:55 +0000
+
+
+
+ from NAM11-CO1-obe.outbound.protection.outlook.com
+
+ (mail-co1nam11on2065.outbound.protection.outlook.com. [40.107.220.65]) by
+
+ mx.google.com with ESMTPS id v17si9752071pjn.142.2021.03.04.06.50.58
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Thu, 04
+
+ Mar 2021 06:51:06 -0800 (PST)
+
+BLAPR20MB3873204DCAEABBE36FD851618B969@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Fri, 5 Mar 2021 21:09:35 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a%4]) with mapi id 15.20.3912.024; Fri, 5 Mar 2021
+
+ 21:09:38 +0000
+
+
+
+ from NAM11-CO1-obe.outbound.protection.outlook.com
+
+ (mail-co1nam11on2067.outbound.protection.outlook.com. [40.107.220.67]) by
+
+ mx.google.com with ESMTPS id d6si3825795pgb.423.2021.03.05.13.09.41
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Fri, 05
+
+ Mar 2021 13:11:22 -0800 (PST)
+
+BLAPR20MB38730472B51D3CEAF0D0202A8B929@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Tue, 9 Mar 2021 20:33:12 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a%4]) with mapi id 15.20.3912.029; Tue, 9 Mar 2021
+
+ 20:33:13 +0000
+
+
+
+ from NAM10-DM6-obe.outbound.protection.outlook.com
+
+ (mail-dm6nam10on2051.outbound.protection.outlook.com. [40.107.93.51]) by
+
+ mx.google.com with ESMTPS id x21si12908811jaq.64.2021.03.09.12.33.15
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Tue, 09
+
+ Mar 2021 12:33:32 -0800 (PST)
+
+BLAPR20MB387340503001F29571B440A28B919@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Wed, 10 Mar 2021 16:01:08 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a%4]) with mapi id 15.20.3912.030; Wed, 10 Mar 2021
+
+ 16:01:10 +0000
+
+
+
+ from NAM12-BN8-obe.outbound.protection.outlook.com
+
+ (mail-bn8nam12on2053.outbound.protection.outlook.com. [40.107.237.53]) by
+
+ mx.google.com with ESMTPS id u10si33401qku.68.2021.03.10.08.01.13
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Wed, 10
+
+ Mar 2021 08:01:57 -0800 (PST)
+
+BLAPR20MB387312D2B99F34632CB94DB98B6F9@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Fri, 12 Mar 2021 12:55:31 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a%4]) with mapi id 15.20.3933.031; Fri, 12 Mar 2021
+
+ 12:55:33 +0000
+
+
+
+ from NAM12-DM6-obe.outbound.protection.outlook.com
+
+ (mail-dm6nam12on2087.outbound.protection.outlook.com. [40.107.243.87]) by
+
+ mx.google.com with ESMTPS id g25si4746985jar.93.2021.03.12.04.55.36
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Fri, 12
+
+ Mar 2021 04:55:45 -0800 (PST)
+
+BLAPR20MB3873469824268ED1D7985AFF8B6F9@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Fri, 12 Mar 2021 16:04:01 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a%4]) with mapi id 15.20.3933.031; Fri, 12 Mar 2021
+
+ 16:04:03 +0000
+
+
+
+ from NAM11-DM6-obe.outbound.protection.outlook.com
+
+ (mail-dm6nam11on2048.outbound.protection.outlook.com. [40.107.223.48]) by
+
+ mx.google.com with ESMTPS id n6si6064425jaj.81.2021.03.12.08.04.06
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Fri, 12
+
+ Mar 2021 08:04:43 -0800 (PST)
+
+BLAPR20MB38733786F41159913D4E8F3F8B6A9@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Wed, 17 Mar 2021 12:59:20 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a%4]) with mapi id 15.20.3955.018; Wed, 17 Mar 2021
+
+ 12:59:21 +0000
+
+
+
+ from NAM12-BN8-obe.outbound.protection.outlook.com
+
+ (mail-bn8nam12on2070.outbound.protection.outlook.com. [40.107.237.70]) by
+
+ mx.google.com with ESMTPS id l13si12163182qth.397.2021.03.17.05.59.24
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Wed, 17
+
+ Mar 2021 05:59:28 -0700 (PDT)
+
+BLAPR20MB387361D4D5F42BBE0C7E2B9B8B659@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Mon, 22 Mar 2021 14:19:44 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a%4]) with mapi id 15.20.3955.027; Mon, 22 Mar 2021
+
+ 14:19:45 +0000
+
+
+
+ from NAM12-BN8-obe.outbound.protection.outlook.com
+
+ (mail-bn8nam12on2047.outbound.protection.outlook.com. [40.107.237.47]) by
+
+ mx.google.com with ESMTPS id t6si7308945qtw.8.2021.03.22.07.19.47
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Mon, 22
+
+ Mar 2021 07:19:51 -0700 (PDT)
+
+BLAPR20MB38730BD1FA1CFA2458181B0B8B7C9@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Wed, 31 Mar 2021 16:04:43 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a%4]) with mapi id 15.20.3999.027; Wed, 31 Mar 2021
+
+ 16:04:43 +0000
+
+
+
+ from NAM02-DM3-obe.outbound.protection.outlook.com
+
+ (mail-dm3nam07on2054.outbound.protection.outlook.com. [40.107.95.54]) by
+
+ mx.google.com with ESMTPS id y11si2122015jat.103.2021.03.31.09.04.46
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Wed, 31
+
+ Mar 2021 09:04:52 -0700 (PDT)
+
+BLAPR20MB38733A949E82D9E96F0B8CC58B769@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Tue, 6 Apr 2021 13:29:23 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a%4]) with mapi id 15.20.3999.032; Tue, 6 Apr 2021
+
+ 13:29:23 +0000
+
+
+
+ from NAM04-BN3-obe.outbound.protection.outlook.com
+
+ (mail-bgr052100137064.outbound.protection.outlook.com. [52.100.137.64]) by
+
+ mx.google.com with ESMTPS id 199si12346248qkl.373.2021.04.06.06.29.26
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Tue, 06
+
+ Apr 2021 06:30:04 -0700 (PDT)
+
+BLAPR20MB3873A51B72832B7F91F9F4888B4C9@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Fri, 16 Apr 2021 14:02:23 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::155c:b0b1:f5c:710a%4]) with mapi id 15.20.4042.019; Fri, 16 Apr 2021
+
+ 14:02:24 +0000
+
+
+
+ from NAM10-MW2-obe.outbound.protection.outlook.com
+
+ (mail-mw2nam10on2065.outbound.protection.outlook.com. [40.107.94.65]) by
+
+ mx.google.com with ESMTPS id s1si5350131plq.129.2021.04.16.07.02.29
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Fri, 16
+
+ Apr 2021 07:02:38 -0700 (PDT)
+
+BLAPR20MB387369E0BC73F5E01785935D8B409@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Wed, 28 Apr 2021 19:06:12 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::3906:de28:27b9:e034]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::3906:de28:27b9:e034%7]) with mapi id 15.20.4065.027; Wed, 28 Apr 2021
+
+ 19:06:14 +0000
+
+
+
+ from NAM10-MW2-obe.outbound.protection.outlook.com
+
+ (mail-mw2nam10on2064.outbound.protection.outlook.com. [40.107.94.64]) by
+
+ mx.google.com with ESMTPS id b22si462796pls.301.2021.04.28.12.06.18
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Wed, 28
+
+ Apr 2021 12:06:24 -0700 (PDT)
+
+BLAPR20MB38736AD571E5B09315BF9B628B539@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Tue, 11 May 2021 19:01:58 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::3906:de28:27b9:e034]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::3906:de28:27b9:e034%7]) with mapi id 15.20.4129.025; Tue, 11 May 2021
+
+ 19:02:00 +0000
+
+
+
+ from NAM12-DM6-obe.outbound.protection.outlook.com
+
+ (mail-dm6nam12on2060.outbound.protection.outlook.com. [40.107.243.60]) by
+
+ mx.google.com with ESMTPS id j28si19013680jaq.115.2021.05.11.12.02.04
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Tue, 11
+
+ May 2021 12:02:14 -0700 (PDT)
+
+BLAPR20MB3873B6A31838E78FCDD6E5C18B269@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Mon, 24 May 2021 14:45:42 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::3906:de28:27b9:e034]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::3906:de28:27b9:e034%7]) with mapi id 15.20.4150.027; Mon, 24 May 2021
+
+ 14:45:43 +0000
+
+
+
+ from NAM11-CO1-obe.outbound.protection.outlook.com
+
+ (mail-co1nam11on2053.outbound.protection.outlook.com. [40.107.220.53]) by
+
+ mx.google.com with ESMTPS id 21si18037285pgf.14.2021.05.24.07.45.45
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Mon, 24
+
+ May 2021 07:45:49 -0700 (PDT)
+
+BLAPR20MB38730C93BEAE3EB7C9910A8B8B389@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Mon, 7 Jun 2021 19:30:44 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::3906:de28:27b9:e034]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::3906:de28:27b9:e034%7]) with mapi id 15.20.4195.029; Mon, 7 Jun 2021
+
+ 19:30:45 +0000
+
+
+
+ from NAM10-DM6-obe.outbound.protection.outlook.com
+
+ (mail-dm6nam10hn2205.outbound.protection.outlook.com. [52.100.156.205]) by
+
+ mx.google.com with ESMTPS id e31si7645316jai.66.2021.06.07.12.30.50
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Mon, 07
+
+ Jun 2021 12:30:55 -0700 (PDT)
+
+BLAPR20MB38730128CA023F83860706528B309@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Tue, 15 Jun 2021 14:54:52 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::943a:7b08:664d:665f]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::943a:7b08:664d:665f%9]) with mapi id 15.20.4242.016; Tue, 15 Jun 2021
+
+ 14:54:53 +0000
+
+
+
+ from NAM12-MW2-obe.outbound.protection.outlook.com
+
+ (mail-mw2nam12on2044.outbound.protection.outlook.com. [40.107.244.44]) by
+
+ mx.google.com with ESMTPS id s37si2205396pfg.66.2021.06.15.07.54.58
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Tue, 15
+
+ Jun 2021 07:55:15 -0700 (PDT)
+
+BLAPR20MB38732143B1C37578D32CBCB18B099@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Tue, 22 Jun 2021 22:59:42 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::943a:7b08:664d:665f]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::943a:7b08:664d:665f%9]) with mapi id 15.20.4264.018; Tue, 22 Jun 2021
+
+ 22:59:44 +0000
+
+
+
+ from NAM12-BN8-obe.outbound.protection.outlook.com
+
+ (mail-bn8nam12on2057.outbound.protection.outlook.com. [40.107.237.57]) by
+
+ mx.google.com with ESMTPS id f10si8902876qkh.24.2021.06.22.15.59.47
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Tue, 22
+
+ Jun 2021 15:59:52 -0700 (PDT)
+
+BLAPR20MB387384F0C3AB55C24A8DC1978B069@BLAPR20MB3873.namprd20.prod.outlook.com
+From: Ximena Geoffroy Williams <ximena.geoffroy@udp.cl>
+
+
+
+Date: Fri, 25 Jun 2021 19:58:08 +0000
+
+
+
+ from BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::943a:7b08:664d:665f]) by BLAPR20MB3873.namprd20.prod.outlook.com
+
+ ([fe80::943a:7b08:664d:665f%9]) with mapi id 15.20.4264.023; Fri, 25 Jun 2021
+
+ 19:58:08 +0000
+
+
+
+ from NAM04-MW2-obe.outbound.protection.outlook.com
+
+ (mail-mw2nam08on2086.outbound.protection.outlook.com. [40.107.101.86]) by
+
+ mx.google.com with ESMTPS id 195si7283889pgb.478.2021.06.25.12.58.09
+
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Fri, 25
+
+ Jun 2021 12:58:10 -0700 (PDT)
+
+20210630031931.E301124113@emkei.cz
+From: "Ximena Geoffroy Williams" <ximena.geoffroy@udp.cl>
+
+
+
+Date: Wed, 30 Jun 2021 05:19:31 +0200 (CEST)
+
+
+
+ by emkei.cz (Postfix, from userid 33) id E301124113; Wed, 30 Jun
+
+ 2021 05:19:31 +0200 (CEST)
+
+
+
+ from emkei.cz (emkei.cz. [101.99.94.155]) by mx.google.com with
+
+ ESMTPS id 23si20259574ejg.6.2021.06.29.20.19.32 for
+
+ <marcos.fantoval@mail.udp.cl> (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384
+
+ bits=256/256); Tue, 29 Jun 2021 20:19:32 -0700 (PDT)
+

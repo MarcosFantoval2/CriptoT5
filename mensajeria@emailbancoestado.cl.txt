@@ -1,0 +1,559 @@
+202004180122.03I1M91K027682@m5.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Fri, 17 Apr 2020 21:22:09 -0400
+
+ (from root@localhost) by m5.emma.cl (8.14.7/8.14.7/Submit) id
+ 03I1M91K027682; Fri, 17 Apr 2020 21:22:09 -0400
+
+ from m5.emma.cl (m5.emma.cl. [200.27.54.135]) by mx.google.com with
+ ESMTPS id b189si14275284qkf.88.2020.04.17.18.21.06 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Fri, 17 Apr 2020 18:21:06
+ -0700 (PDT)
+202006012013.051KDcCf031541@m5.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Mon, 1 Jun 2020 16:13:38 -0400
+
+ (from root@localhost) by m5.emma.cl (8.14.7/8.14.7/Submit) id
+ 051KDcCf031541; Mon, 1 Jun 2020 16:13:38 -0400
+
+ from m5.emma.cl (m5.emma.cl. [200.27.54.135]) by mx.google.com with
+ ESMTPS id z3si320101qtc.362.2020.06.01.13.10.40 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Mon, 01 Jun 2020 13:10:41
+ -0700 (PDT)
+202006102134.05ALY9iQ029385@m3.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Wed, 10 Jun 2020 17:34:09 -0400
+
+ (from root@localhost) by m3.emma.cl (8.14.7/8.14.7/Submit) id
+ 05ALY9iQ029385; Wed, 10 Jun 2020 17:34:09 -0400
+
+ from m3.emma.cl (m3.emma.cl. [200.27.54.130]) by mx.google.com with
+ ESMTPS id p2si507162qvv.86.2020.06.10.14.34.17 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Wed, 10 Jun 2020 14:34:18
+ -0700 (PDT)
+202006250109.05P19eKL010637@m6.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Wed, 24 Jun 2020 21:09:40 -0400
+
+ (from root@localhost) by m6.emma.cl (8.14.7/8.14.7/Submit) id
+ 05P19eKL010637; Wed, 24 Jun 2020 21:09:40 -0400
+
+ from m6.emma.cl (m6.emma.cl. [200.27.54.136]) by mx.google.com with
+ ESMTPS id a195si11416769qkc.68.2020.06.24.18.09.31 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Wed, 24 Jun 2020 18:09:31
+ -0700 (PDT)
+202007032046.063KkLnI015245@m5.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Fri, 3 Jul 2020 16:46:21 -0400
+
+ (from root@localhost) by m5.emma.cl (8.14.7/8.14.7/Submit) id
+ 063KkLnI015245; Fri, 3 Jul 2020 16:46:21 -0400
+
+ from m5.emma.cl (m5.emma.cl. [200.27.54.135]) by mx.google.com with
+ ESMTPS id r32si7968827qtd.294.2020.07.03.13.45.07 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Fri, 03 Jul 2020 13:45:08
+ -0700 (PDT)
+202007051634.065GYYvg002965@m6.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Sun, 5 Jul 2020 12:34:34 -0400
+
+ (from root@localhost) by m6.emma.cl (8.14.7/8.14.7/Submit) id
+ 065GYYvg002965; Sun, 5 Jul 2020 12:34:34 -0400
+
+ from m6.emma.cl (m6.emma.cl. [200.27.54.136]) by mx.google.com with
+ ESMTPS id m187si7898296qkc.10.2020.07.05.09.34.03 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Sun, 05 Jul 2020 09:34:03
+ -0700 (PDT)
+202007072036.067KaCrl015558@m1.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Tue, 7 Jul 2020 16:36:12 -0400
+
+ (from root@localhost) by m1.emma.cl (8.14.7/8.14.7/Submit) id
+ 067KaCrl015558; Tue, 7 Jul 2020 16:36:12 -0400
+
+ from m1.emma.cl (m1.emma.cl. [200.27.54.158]) by mx.google.com with
+ ESMTPS id g43si15758894qtc.357.2020.07.07.13.36.51 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Tue, 07 Jul 2020 13:36:52
+ -0700 (PDT)
+202007091332.069DWjW5024395@m8.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Thu, 9 Jul 2020 09:32:45 -0400
+
+ (from root@localhost) by m8.emma.cl (8.14.7/8.14.7/Submit) id
+ 069DWjW5024395; Thu, 9 Jul 2020 09:32:45 -0400
+
+ from m8.emma.cl (m8.emma.cl. [200.27.54.133]) by mx.google.com with
+ ESMTPS id p24si2142841pgd.126.2020.07.09.06.32.56 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Thu, 09 Jul 2020 06:32:56
+ -0700 (PDT)
+202007230019.06N0JIo3018565@m1.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Wed, 22 Jul 2020 20:19:18 -0400
+
+ (from root@localhost) by m1.emma.cl (8.14.7/8.14.7/Submit) id
+ 06N0JIo3018565; Wed, 22 Jul 2020 20:19:18 -0400
+
+ from m1.emma.cl (m1.emma.cl. [200.27.54.158]) by mx.google.com with
+ ESMTPS id e11si1074847qtw.67.2020.07.22.17.19.58 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Wed, 22 Jul 2020 17:20:00
+ -0700 (PDT)
+202007281515.06SFFsRc012388@m9.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Tue, 28 Jul 2020 11:15:54 -0400
+
+ (from root@localhost) by m9.emma.cl (8.14.7/8.14.7/Submit) id
+ 06SFFsRc012388; Tue, 28 Jul 2020 11:15:54 -0400
+
+ from m9.emma.cl (m9.emma.cl. [200.27.54.139]) by mx.google.com with
+ ESMTPS id b189si3739173qkd.116.2020.07.28.08.18.26 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Tue, 28 Jul 2020 08:18:28
+ -0700 (PDT)
+202008010251.0712puL3012820@m9.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Fri, 31 Jul 2020 22:51:56 -0400
+
+ (from root@localhost) by m9.emma.cl (8.14.7/8.14.7/Submit) id
+ 0712puL3012820; Fri, 31 Jul 2020 22:51:56 -0400
+
+ from m9.emma.cl (m9.emma.cl. [200.27.54.139]) by mx.google.com with
+ ESMTPS id l4si5430634qvo.25.2020.07.31.19.51.24 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Fri, 31 Jul 2020 19:51:24
+ -0700 (PDT)
+202008032313.073NDFss022219@m5.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Mon, 3 Aug 2020 19:13:15 -0400
+
+ (from root@localhost) by m5.emma.cl (8.14.7/8.14.7/Submit) id
+ 073NDFss022219; Mon, 3 Aug 2020 19:13:15 -0400
+
+ from m5.emma.cl (m5.emma.cl. [200.27.54.135]) by mx.google.com with
+ ESMTPS id l20si5206453qtp.195.2020.08.03.16.13.48 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Mon, 03 Aug 2020 16:13:50
+ -0700 (PDT)
+202008311731.07VHVaNI019284@m5.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Mon, 31 Aug 2020 13:31:36 -0400
+
+ (from root@localhost) by m5.emma.cl (8.14.7/8.14.7/Submit) id
+ 07VHVaNI019284; Mon, 31 Aug 2020 13:31:36 -0400
+
+ from m5.emma.cl (m5.emma.cl. [200.27.54.135]) by mx.google.com with
+ ESMTPS id r22si6055166pls.270.2020.08.31.10.30.59 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Mon, 31 Aug 2020 10:31:02
+ -0700 (PDT)
+202105070256.1472ups3024297@m3.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Thu, 6 May 2021 22:56:51 -0400
+
+ (from root@localhost) by m3.emma.cl (8.14.7/8.14.7/Submit) id
+ 1472ups3024297; Thu, 6 May 2021 22:56:51 -0400
+
+ from m3.emma.cl (m3.emma.cl. [200.27.54.130]) by mx.google.com with
+ ESMTPS id bk4si3272467qvb.152.2021.05.06.19.56.15 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Thu, 06 May 2021 19:56:15
+ -0700 (PDT)
+202105072154.147LsHOr018572@m1.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Fri, 7 May 2021 17:54:17 -0400
+
+ (from root@localhost) by m1.emma.cl (8.14.7/8.14.7/Submit) id
+ 147LsHOr018572; Fri, 7 May 2021 17:54:17 -0400
+
+ from m1.emma.cl (m1.emma.cl. [200.27.54.158]) by mx.google.com with
+ ESMTPS id q10si1065069qtw.64.2021.05.07.14.55.28 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Fri, 07 May 2021 14:55:29
+ -0700 (PDT)
+202105072332.147NWNFx007801@m7.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Fri, 7 May 2021 19:32:23 -0400
+
+ (from root@localhost) by m7.emma.cl (8.14.7/8.14.7/Submit) id
+ 147NWNFx007801; Fri, 7 May 2021 19:32:23 -0400
+
+ from m7.emma.cl (m7.emma.cl. [200.27.54.137]) by mx.google.com with
+ ESMTPS id m21si1747096qkp.378.2021.05.07.16.34.10 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Fri, 07 May 2021 16:34:11
+ -0700 (PDT)
+202105120223.14C2Nl2N001165@m7.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Tue, 11 May 2021 22:23:47 -0400
+
+ (from root@localhost) by m7.emma.cl (8.14.7/8.14.7/Submit) id
+ 14C2Nl2N001165; Tue, 11 May 2021 22:23:47 -0400
+
+ from m7.emma.cl (m7.emma.cl. [200.27.54.137]) by mx.google.com with
+ ESMTPS id t7si16145243qve.145.2021.05.11.19.25.40 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Tue, 11 May 2021 19:25:40
+ -0700 (PDT)
+202105130453.14D4rDpK003054@m8.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Thu, 13 May 2021 00:53:13 -0400
+
+ (from root@localhost) by m8.emma.cl (8.14.7/8.14.7/Submit) id
+ 14D4rDpK003054; Thu, 13 May 2021 00:53:13 -0400
+
+ from m8.emma.cl (m8.emma.cl. [200.27.54.133]) by mx.google.com with
+ ESMTPS id i189si1415133qkd.305.2021.05.12.21.53.03 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Wed, 12 May 2021 21:53:03
+ -0700 (PDT)
+202105132332.14DNW4Ka007745@m8.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Thu, 13 May 2021 19:32:04 -0400
+
+ (from root@localhost) by m8.emma.cl (8.14.7/8.14.7/Submit) id
+ 14DNW4Ka007745; Thu, 13 May 2021 19:32:04 -0400
+
+ from m8.emma.cl (m8.emma.cl. [200.27.54.133]) by mx.google.com with
+ ESMTPS id b18si5788093pls.367.2021.05.13.16.31.55 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Thu, 13 May 2021 16:31:56
+ -0700 (PDT)
+202105140533.14E5XKJj016084@m6.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Fri, 14 May 2021 01:33:20 -0400
+
+ (from root@localhost) by m6.emma.cl (8.14.7/8.14.7/Submit) id
+ 14E5XKJj016084; Fri, 14 May 2021 01:33:20 -0400
+
+ from m6.emma.cl (m6.emma.cl. [200.27.54.136]) by mx.google.com with
+ ESMTPS id p16si3019284wrm.144.2021.05.13.22.31.45 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Thu, 13 May 2021 22:31:46
+ -0700 (PDT)
+202105180222.14I2MGIC025527@m8.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Mon, 17 May 2021 22:22:16 -0400
+
+ (from root@localhost) by m8.emma.cl (8.14.7/8.14.7/Submit) id
+ 14I2MGIC025527; Mon, 17 May 2021 22:22:16 -0400
+
+ from m8.emma.cl (m8.emma.cl. [200.27.54.133]) by mx.google.com with
+ ESMTPS id v1si12861099qkj.153.2021.05.17.19.22.20 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Mon, 17 May 2021 19:22:43
+ -0700 (PDT)
+202105190143.14J1hXWf017958@m9.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Tue, 18 May 2021 21:43:33 -0400
+
+ (from root@localhost) by m9.emma.cl (8.14.7/8.14.7/Submit) id
+ 14J1hXWf017958; Tue, 18 May 2021 21:43:33 -0400
+
+ from m9.emma.cl (m9.emma.cl. [200.27.54.139]) by mx.google.com with
+ ESMTPS id i27si15266221qkl.306.2021.05.18.18.45.54 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Tue, 18 May 2021 18:45:54
+ -0700 (PDT)
+202105192259.14JMx0Ik002333@m8.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Wed, 19 May 2021 18:59:00 -0400
+
+ (from root@localhost) by m8.emma.cl (8.14.7/8.14.7/Submit) id
+ 14JMx0Ik002333; Wed, 19 May 2021 18:59:00 -0400
+
+ from m8.emma.cl (m8.emma.cl. [200.27.54.133]) by mx.google.com with
+ ESMTPS id j16si457375qtx.6.2021.05.19.15.59.08 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Wed, 19 May 2021 15:59:09
+ -0700 (PDT)
+202105200502.14K52aJw027679@m4.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Thu, 20 May 2021 01:02:36 -0400
+
+ (from root@localhost) by m4.emma.cl (8.14.7/8.14.7/Submit) id
+ 14K52aJw027679; Thu, 20 May 2021 01:02:36 -0400
+
+ from m4.emma.cl (m4.emma.cl. [200.27.54.131]) by mx.google.com with
+ ESMTPS id c12si1213484qvc.87.2021.05.19.22.00.04 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Wed, 19 May 2021 22:00:05
+ -0700 (PDT)
+202105210254.14L2srKI025411@m8.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Thu, 20 May 2021 22:54:53 -0400
+
+ (from root@localhost) by m8.emma.cl (8.14.7/8.14.7/Submit) id
+ 14L2srKI025411; Thu, 20 May 2021 22:54:53 -0400
+
+ from m8.emma.cl (m8.emma.cl. [200.27.54.133]) by mx.google.com with
+ ESMTPS id w1si2886642qvr.201.2021.05.20.19.55.04 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Thu, 20 May 2021 19:55:05
+ -0700 (PDT)
+202105280634.14S6Ymkf018810@m4.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Fri, 28 May 2021 02:34:48 -0400
+
+ (from root@localhost) by m4.emma.cl (8.14.7/8.14.7/Submit) id
+ 14S6Ymkf018810; Fri, 28 May 2021 02:34:48 -0400
+
+ from m4.emma.cl (m4.emma.cl. [200.27.54.131]) by mx.google.com with
+ ESMTPS id k13si4054268qko.284.2021.05.27.23.32.08 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Thu, 27 May 2021 23:32:09
+ -0700 (PDT)
+202105281924.14SJOkVE013371@m8.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Fri, 28 May 2021 15:24:46 -0400
+
+ (from root@localhost) by m8.emma.cl (8.14.7/8.14.7/Submit) id
+ 14SJOkVE013371; Fri, 28 May 2021 15:24:46 -0400
+
+ from m8.emma.cl (m8.emma.cl. [200.27.54.133]) by mx.google.com with
+ ESMTPS id dm12si4065531qvb.162.2021.05.28.12.25.18 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Fri, 28 May 2021 12:25:19
+ -0700 (PDT)
+202105312312.14VNCjUC026889@m9.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Mon, 31 May 2021 19:12:45 -0400
+
+ (from root@localhost) by m9.emma.cl (8.14.7/8.14.7/Submit) id
+ 14VNCjUC026889; Mon, 31 May 2021 19:12:45 -0400
+
+ from m9.emma.cl (m9.emma.cl. [200.27.54.139]) by mx.google.com with
+ ESMTPS id w13si10981155qta.14.2021.05.31.16.12.41 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Mon, 31 May 2021 16:12:41
+ -0700 (PDT)
+202106011924.151JOVl8018590@m3.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Tue, 1 Jun 2021 15:24:31 -0400
+
+ (from root@localhost) by m3.emma.cl (8.14.7/8.14.7/Submit) id
+ 151JOVl8018590; Tue, 1 Jun 2021 15:24:31 -0400
+
+ from m3.emma.cl (m3.emma.cl. [200.27.54.130]) by mx.google.com with
+ ESMTPS id a30si5964826uaj.204.2021.06.01.12.23.53 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Tue, 01 Jun 2021 12:23:54
+ -0700 (PDT)
+202106031906.153J6wAH018131@m4.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Thu, 3 Jun 2021 15:06:58 -0400
+
+ (from root@localhost) by m4.emma.cl (8.14.7/8.14.7/Submit) id
+ 153J6wAH018131; Thu, 3 Jun 2021 15:06:58 -0400
+
+ from m4.emma.cl (m4.emma.cl. [200.27.54.131]) by mx.google.com with
+ ESMTPS id d2si3736620wrz.337.2021.06.03.12.04.06 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Thu, 03 Jun 2021 12:04:07
+ -0700 (PDT)
+202106100329.15A3TGvd026125@m7.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Wed, 9 Jun 2021 23:29:16 -0400
+
+ (from root@localhost) by m7.emma.cl (8.14.7/8.14.7/Submit) id
+ 15A3TGvd026125; Wed, 9 Jun 2021 23:29:16 -0400
+
+ from m7.emma.cl (m7.emma.cl. [200.27.54.137]) by mx.google.com with
+ ESMTPS id h11si1145846qtq.35.2021.06.09.20.31.44 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Wed, 09 Jun 2021 20:31:45
+ -0700 (PDT)
+202106112338.15BNcnQq024942@m3.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Fri, 11 Jun 2021 19:38:49 -0400
+
+ (from root@localhost) by m3.emma.cl (8.14.7/8.14.7/Submit) id
+ 15BNcnQq024942; Fri, 11 Jun 2021 19:38:49 -0400
+
+ from m3.emma.cl (m3.emma.cl. [200.27.54.130]) by mx.google.com with
+ ESMTPS id a9si3416663qtd.178.2021.06.11.16.38.15 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Fri, 11 Jun 2021 16:38:16
+ -0700 (PDT)
+202106120210.15C2Asqp028549@m8.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Fri, 11 Jun 2021 22:10:54 -0400
+
+ (from root@localhost) by m8.emma.cl (8.14.7/8.14.7/Submit) id
+ 15C2Asqp028549; Fri, 11 Jun 2021 22:10:54 -0400
+
+ from m8.emma.cl (m8.emma.cl. [200.27.54.133]) by mx.google.com with
+ ESMTPS id o6si164486qkp.378.2021.06.11.19.12.05 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Fri, 11 Jun 2021 19:12:06
+ -0700 (PDT)
+202106150031.15F0Ve9p016113@m7.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Mon, 14 Jun 2021 20:31:40 -0400
+
+ (from root@localhost) by m7.emma.cl (8.14.7/8.14.7/Submit) id
+ 15F0Ve9p016113; Mon, 14 Jun 2021 20:31:40 -0400
+
+ from m7.emma.cl (m7.emma.cl. [200.27.54.137]) by mx.google.com with
+ ESMTPS id u9si10960093qkm.98.2021.06.14.17.34.13 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Mon, 14 Jun 2021 17:34:14
+ -0700 (PDT)
+202106152353.15FNrKB8011304@m5.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Tue, 15 Jun 2021 19:53:20 -0400
+
+ (from root@localhost) by m5.emma.cl (8.14.7/8.14.7/Submit) id
+ 15FNrKB8011304; Tue, 15 Jun 2021 19:53:20 -0400
+
+ from m5.emma.cl (m5.emma.cl. [200.27.54.135]) by mx.google.com with
+ ESMTPS id j10si335114qkg.0.2021.06.15.16.51.30 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Tue, 15 Jun 2021 16:51:31
+ -0700 (PDT)
+202106170413.15H4DXCX027328@m7.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Thu, 17 Jun 2021 00:13:33 -0400
+
+ (from root@localhost) by m7.emma.cl (8.14.7/8.14.7/Submit) id
+ 15H4DXCX027328; Thu, 17 Jun 2021 00:13:33 -0400
+
+ from m7.emma.cl (m7.emma.cl. [200.27.54.137]) by mx.google.com with
+ ESMTPS id t1si886354qtp.37.2021.06.16.21.16.09 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Wed, 16 Jun 2021 21:16:10
+ -0700 (PDT)
+202106172113.15HLDAXv019023@m7.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Thu, 17 Jun 2021 17:13:10 -0400
+
+ (from root@localhost) by m7.emma.cl (8.14.7/8.14.7/Submit) id
+ 15HLDAXv019023; Thu, 17 Jun 2021 17:13:10 -0400
+
+ from m7.emma.cl (m7.emma.cl. [200.27.54.137]) by mx.google.com with
+ ESMTPS id x15si3398949wmc.96.2021.06.17.14.15.48 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Thu, 17 Jun 2021 14:15:48
+ -0700 (PDT)
+202106180305.15I35Db3026151@m7.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Thu, 17 Jun 2021 23:05:13 -0400
+
+ (from root@localhost) by m7.emma.cl (8.14.7/8.14.7/Submit) id
+ 15I35Db3026151; Thu, 17 Jun 2021 23:05:13 -0400
+
+ from m7.emma.cl (m7.emma.cl. [200.27.54.137]) by mx.google.com with
+ ESMTPS id x2si3680868qvs.82.2021.06.17.20.07.50 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Thu, 17 Jun 2021 20:07:51
+ -0700 (PDT)
+202106190640.15J6ecxQ010569@m9.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Sat, 19 Jun 2021 02:40:38 -0400
+
+ (from root@localhost) by m9.emma.cl (8.14.7/8.14.7/Submit) id
+ 15J6ecxQ010569; Sat, 19 Jun 2021 02:40:38 -0400
+
+ from m9.emma.cl (m9.emma.cl. [200.27.54.139]) by mx.google.com with
+ ESMTPS id z6si2029057qvi.171.2021.06.18.23.41.12 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Fri, 18 Jun 2021 23:41:13
+ -0700 (PDT)
+202106232325.15NNPsc7014665@m7.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Wed, 23 Jun 2021 19:25:54 -0400
+
+ (from root@localhost) by m7.emma.cl (8.14.7/8.14.7/Submit) id
+ 15NNPsc7014665; Wed, 23 Jun 2021 19:25:54 -0400
+
+ from m7.emma.cl (m7.emma.cl. [200.27.54.137]) by mx.google.com with
+ ESMTPS id js12si295897qvb.83.2021.06.23.16.25.48 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Wed, 23 Jun 2021 16:25:49
+ -0700 (PDT)
+202106250424.15P4OWkQ000643@m7.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Fri, 25 Jun 2021 00:24:32 -0400
+
+ (from root@localhost) by m7.emma.cl (8.14.7/8.14.7/Submit) id
+ 15P4OWkQ000643; Fri, 25 Jun 2021 00:24:32 -0400
+
+ from m7.emma.cl (m7.emma.cl. [200.27.54.137]) by mx.google.com with
+ ESMTPS id n1si479089qvo.8.2021.06.24.21.24.28 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Thu, 24 Jun 2021 21:24:28
+ -0700 (PDT)
+202106250828.15P8SAfb002324@m6.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Fri, 25 Jun 2021 04:28:10 -0400
+
+ (from root@localhost) by m6.emma.cl (8.14.7/8.14.7/Submit) id
+ 15P8SAfb002324; Fri, 25 Jun 2021 04:28:10 -0400
+
+ from m6.emma.cl (m6.emma.cl. [200.27.54.136]) by mx.google.com with
+ ESMTPS id x27si5345383qtm.273.2021.06.25.01.28.16 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Fri, 25 Jun 2021 01:28:17
+ -0700 (PDT)
+202106261658.15QGwfqP008057@m4.emma.cl
+From: BancoEstado  <mensajeria@emailbancoestado.cl>
+
+Date: Sat, 26 Jun 2021 12:58:41 -0400
+
+ (from root@localhost) by m4.emma.cl (8.14.7/8.14.7/Submit) id
+ 15QGwfqP008057; Sat, 26 Jun 2021 12:58:41 -0400
+
+ from m4.emma.cl (m4.emma.cl. [200.27.54.131]) by mx.google.com with
+ ESMTPS id y41si10978471pfa.163.2021.06.26.09.58.26 for
+ <marcosfantoval.1@gmail.com> (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128); Sat, 26 Jun 2021 09:58:27
+ -0700 (PDT)
